@@ -4,3 +4,4 @@ This is WhatsApp code
 2. Chat Screen Code 
 3. Last Seen Code 
 4. Attachements Email Audio and Video Code 
+5. Hiding the Last Seen 
